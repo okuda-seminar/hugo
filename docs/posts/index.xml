@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hugo Test</title>
+    <link>https://okuda-seminar.github.io/hugo/posts/</link>
+    <description>Recent content in Posts on Hugo Test</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 27 Jan 2022 15:42:23 +0900</lastBuildDate><atom:link href="https://okuda-seminar.github.io/hugo/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://okuda-seminar.github.io/hugo/posts/hello-world/</link>
+      <pubDate>Thu, 27 Jan 2022 15:42:23 +0900</pubDate>
+      
+      <guid>https://okuda-seminar.github.io/hugo/posts/hello-world/</guid>
+      <description>Hello World</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://okuda-seminar.github.io/hugo/posts/my-first-post/</link>
+      <pubDate>Thu, 27 Jan 2022 13:59:55 +0900</pubDate>
+      
+      <guid>https://okuda-seminar.github.io/hugo/posts/my-first-post/</guid>
+      <description>Hello</description>
+    </item>
+    
+  </channel>
+</rss>
