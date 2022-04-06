@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/posts/hoge/</loc>
+    <loc>https://okuda-seminar.github.io/hugo/posts/hoge/</loc>
     <lastmod>2022-04-07T05:01:34+09:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://okuda-seminar.github.io/hugo/</loc>
     <lastmod>2022-04-07T05:01:34+09:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://okuda-seminar.github.io/hugo/posts/</loc>
     <lastmod>2022-04-07T05:01:34+09:00</lastmod>
   </url><url>
-    <loc>/posts/hello-world/</loc>
+    <loc>https://okuda-seminar.github.io/hugo/posts/hello-world/</loc>
     <lastmod>2022-01-27T15:42:23+09:00</lastmod>
   </url><url>
-    <loc>/posts/my-first-post/</loc>
+    <loc>https://okuda-seminar.github.io/hugo/posts/my-first-post/</loc>
     <lastmod>2022-01-27T13:59:55+09:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://okuda-seminar.github.io/hugo/categories/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://okuda-seminar.github.io/hugo/tags/</loc>
   </url>
 </urlset>
